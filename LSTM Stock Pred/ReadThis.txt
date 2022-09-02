@@ -1,0 +1,3 @@
+This notebook has been executed on kaggle for utilising its GPU feature.
+To run this notebook, visit https://www.kaggle.com/code/aakashyeddu/rnn-yf-for-intraday
+There is no data attached to this notebook since the notebook generates the data on its own.
