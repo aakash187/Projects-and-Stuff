@@ -1,0 +1,3 @@
+This notebook has been executed on kaggle.
+To view the notebook and run it, visit https://www.kaggle.com/code/aakashyeddu/apriori-yedduaakash
+To view the concerned dataset, visit https://www.kaggle.com/code/aakashyeddu/apriori-yedduaakash/data
