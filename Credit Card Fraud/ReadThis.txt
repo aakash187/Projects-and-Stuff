@@ -1,0 +1,3 @@
+This notebook has been executed on kaggle for GPU utilization.
+To view, visit kaggle.com/code/aakashyeddu/creditcardfraud
+To view the data, visit kaggle.com/code/aakashyeddu/creditcardfraud/data
