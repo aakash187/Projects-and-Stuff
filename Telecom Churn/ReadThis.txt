@@ -1,0 +1,3 @@
+This notebook has been executed on kaggle for utilising its GPU feature.
+To view the dataset, visit https://www.kaggle.com/code/aakashyeddu/telco-churn-prediction-ay/data
+To visit the notebook, visit https://www.kaggle.com/code/aakashyeddu/telco-churn-prediction-ay/notebook
